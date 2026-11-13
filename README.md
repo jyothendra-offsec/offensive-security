@@ -24,3 +24,7 @@ The filter removes informational findings (severity 0), preserves other findings
 The scripts have different dependencies and lab assumptions. The repository is a lab reference. Confirm current exam restrictions independently before relying on any tool in an exam.
 
 [Repository license](LICENSE)
+
+## Usage terms
+
+Original material in this revision requires the owner's written permission for modification or redistribution. Earlier MIT releases and third-party licenses retain their terms. See [LICENSE](LICENSE).
